@@ -1,8 +1,6 @@
 # camagru
 
 
-## Description
-
 A basic web app that allows users to take pictures using a webcam and superimpose predefined images onto them.
 
 ## Getting Started
