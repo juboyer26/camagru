@@ -13,5 +13,4 @@ A basic web app that allows users to take pictures using a webcam and superimpos
 ### Executing program
 
 * Clone repository into htdocs/.
-      ` You'll want to name the repository 'Camagru', or filters will not be usable. `
 * Navigate to http://localhost/Camagru
