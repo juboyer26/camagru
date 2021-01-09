@@ -10,7 +10,7 @@ A basic web app that allows users to take pictures using a webcam and superimpos
 * Install xampp https://www.apachefriends.org/index.html
 
 * How to set up and configure XAMPP:
-  ** Place the downloaded Camagru folder into the installed path "C:\xampp\htdocs"
+ 
 
 
 
