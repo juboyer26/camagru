@@ -5,9 +5,11 @@ A basic web app that allows users to take pictures using a webcam and superimpos
 
 ## Getting Started
 
-### Installing
+### Installation
 
 * Install xampp https://www.apachefriends.org/index.html
+
+
 
 
 ### Executing program
