@@ -8,7 +8,7 @@ A basic web app that allows users to take pictures using a webcam and superimpos
 ### Installation
 
 * Install xampp https://www.apachefriends.org/index.html
-`How to set up and configure XAMPP:
+How to set up and configure XAMPP:
 *Place the downloaded Camagru folder into the installed path "C:\xampp\htdocs"
 *Ensure less secure apps enabled on gmail (as I used gmail for sending email)
 *Next navigate to "C:\xampp\php\php.ini"
@@ -24,5 +24,5 @@ A basic web app that allows users to take pictures using a webcam and superimpos
 *Set smtp_port=587
 *Set auth_username = ENTER YOUR EMAIL HERE
 *Set auth_password = ENTER YOUR GMAIL PASSWORD
-*Save and close sendmail.ini`
+*Save and close sendmail.ini
 
