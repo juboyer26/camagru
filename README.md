@@ -1,15 +1,15 @@
 # camagru
 
 
-A basic web app that allows users to take pictures using a webcam and superimpose predefined images onto them.
+A basic web app similar to Instagram, that allows users to upload images, apply stickers, like and comment on images.
 
 ## Getting Started
 
-### Installation
+## Installation
 
 * Install xampp https://www.apachefriends.org/index.html
 
-## How to set up and configure XAMPP:
+### How to set up and configure XAMPP:
  
 1. Place the downloaded Camagru folder into the installed path "C:\xampp\htdocs"
 `Ensure less secure apps enabled on gmail (as I used gmail for sending email)`
@@ -29,3 +29,10 @@ A basic web app that allows users to take pictures using a webcam and superimpos
 - Set auth_username = ENTER YOUR EMAIL HERE
 - Set auth_password = ENTER YOUR GMAIL PASSWORD
 - Save and close sendmail.ini
+
+### How to run the program
+1. Open XAMPP
+- Click on the start button for "Apache"
+- Click on the start button for "MySQL"
+2. Open a web browser of your choosing
+- Type the following in your search bar "http://localhost/camugru/"
