@@ -11,7 +11,7 @@ A basic web app that allows users to take pictures using a webcam and superimpos
 
 * How to set up and configure XAMPP:
  
-1. Place the downloaded Camagru folder into the installed path "C:\xampp\htdocs"
+- Place the downloaded Camagru folder into the installed path "C:\xampp\htdocs"
 `Ensure less secure apps enabled on gmail (as I used gmail for sending email)`
 2. Next navigate to "C:\xampp\php\php.ini"
 3. Look for the heading "[mail function]"
