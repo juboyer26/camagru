@@ -5,9 +5,14 @@ A basic web app similar to Instagram, that allows users to upload images, apply 
 
 ## Getting Started
 
-## Requirements
+### Requirements
 
 * Install xampp https://www.apachefriends.org/index.html
+
+### Installation
+
+#### How to download source code:
+- Click clone / download
 
 #### How to set up and configure XAMPP:
  
