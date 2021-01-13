@@ -5,11 +5,11 @@ A basic web app similar to Instagram, that allows users to upload images, apply 
 
 ## Getting Started
 
-## Installation
+## Requirements
 
 * Install xampp https://www.apachefriends.org/index.html
 
-### How to set up and configure XAMPP:
+#### How to set up and configure XAMPP:
  
 1. Place the downloaded Camagru folder into the installed path "C:\xampp\htdocs"
 `Ensure less secure apps enabled on gmail (as I used gmail for sending email)`
