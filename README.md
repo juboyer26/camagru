@@ -12,7 +12,7 @@ A basic web app similar to Instagram, that allows users to upload images, apply 
 #### How to set up and configure XAMPP:
  
 1. Place the downloaded Camagru folder into the installed path "C:\xampp\htdocs"
--`Ensure less secure apps enabled on gmail (as I used gmail for sending email)`
+- `Ensure less secure apps enabled on gmail (as I used gmail for sending email)`
 
 2. Next navigate to "C:\xampp\php\php.ini"
 - Look for the heading "[mail function]"
