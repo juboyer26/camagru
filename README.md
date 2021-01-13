@@ -7,7 +7,8 @@ A basic web app similar to Instagram, that allows users to upload images, apply 
 
 ### Requirements
 
-* Install xampp https://www.apachefriends.org/index.html
+* Xampp https://www.apachefriends.org/index.html
+* Visual Studio https://code.visualstudio.com/download
 
 ### Installation
 
