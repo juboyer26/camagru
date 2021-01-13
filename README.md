@@ -35,4 +35,4 @@ A basic web app similar to Instagram, that allows users to upload images, apply 
 - Click on the start button for "Apache"
 - Click on the start button for "MySQL"
 2. Open a web browser of your choosing
-- Type the following in your search bar "http://localhost/camugru/"
+- Type the following in your search bar "http://localhost/camagru/"
