@@ -36,9 +36,30 @@ A basic web app similar to Instagram, that allows users to upload images, apply 
 - Set auth_password = ENTER YOUR GMAIL PASSWORD
 - Save and close sendmail.ini
 
-### How to run the program
+#### How to run the program
 1. Open XAMPP
 - Click on the start button for "Apache"
 - Click on the start button for "MySQL"
 2. Open a web browser of your choosing
 - Type the following in your search bar "http://localhost/camagru/"
+
+
+### Testing
+Tests that are executed:
+* Preliminary checks, used PHP, no external frameworks (aside from css), config files in the correct location. Used PDOs
+* Webserver starts
+* Create an account
+* Log in
+* Capture a picture with the webcam / upload an image
+* Change user credentials
+
+Expected outcomes:
+* Backend code written in PHP
+* No frameworks used (aside from css)
+* database.php + setup.php in the config folder
+* Used PDOs
+* Web server starts on localhost
+* Able to register
+* Able to log in
+* Able to capture photos
+* Able to change credentials
