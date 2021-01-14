@@ -3,14 +3,12 @@
 
 A basic web app similar to Instagram, that allows users to upload images, apply stickers, like and comment on images.
 
-## Getting Started
 
-### Requirements
+## Requirements
 
 * Xampp https://www.apachefriends.org/index.html
-* Visual Studio https://code.visualstudio.com/download
 
-### Installation
+## Installation
 
 #### How to download source code:
 - Click clone / download
@@ -18,7 +16,6 @@ A basic web app similar to Instagram, that allows users to upload images, apply 
 #### How to set up and configure XAMPP:
  
 1. Place the downloaded Camagru folder into the installed path "C:\xampp\htdocs"
-- `Ensure less secure apps enabled on gmail (as I used gmail for sending email)`
 
 2. Next navigate to "C:\xampp\php\php.ini"
 - Look for the heading "[mail function]"
@@ -44,7 +41,7 @@ A basic web app similar to Instagram, that allows users to upload images, apply 
 - Type the following in your search bar "http://localhost/camagru/"
 
 
-### Testing
+## Testing
 Tests that are executed:
 * Preliminary checks, used PHP, no external frameworks (aside from css), config files in the correct location. Used PDOs
 * Webserver starts
